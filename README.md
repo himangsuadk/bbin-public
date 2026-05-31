@@ -371,4 +371,21 @@ counterparty, plus the relevant regulatory approvals. Recommendations produced h
 
 ## License
 
-Add a license of your choice (for example MIT) before publishing.
+This project is **dual-licensed**. You may use it under **either**:
+
+1. The **GNU Affero General Public License v3.0** ([`LICENSE`](LICENSE)) — free
+   of charge, but you must disclose your source code (including for hosted/SaaS
+   use), state any changes you made, and preserve attribution. The software is
+   provided with **no warranty and no liability**.
+
+2. A paid **Commercial License** ([`COMMERCIAL-LICENSE.md`](COMMERCIAL-LICENSE.md))
+   — for closed-source, proprietary, or private hosted use without the AGPL
+   obligations. Fees are negotiated and vary over time.
+
+See [`LICENSING.md`](LICENSING.md) for a full comparison, and [`NOTICE`](NOTICE)
+for attribution requirements. For a commercial quote, contact
+<anubhavprasai123@gmail.com> or <himangsuadk@gmail.com>.
+
+> This software is a reference implementation and is **not** certified for
+> safety-critical, industrial, energy, or hydropower control use. Use at your
+> own risk.

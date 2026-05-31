@@ -1,0 +1,21 @@
+BBIN Hydropower Platform
+Copyright © 2026 Anubhav Prasai <anubhavprasai123@gmail.com>
+Copyright © 2026 Himangsu Adhikari <himangsuadk@gmail.com>
+
+This product is dual-licensed:
+
+  1. Under the GNU Affero General Public License v3.0 (see the LICENSE file),
+     free of charge, with source-disclosure and attribution obligations; or
+
+  2. Under a separate Commercial License (see COMMERCIAL-LICENSE.md), available
+     for purchase, which removes the copyleft obligations of the AGPL-3.0.
+
+See LICENSING.md for an overview of both options.
+
+If you modify this software, you must retain this NOTICE file, preserve the
+copyright notices above, and — when using it under the AGPL-3.0 — state the
+changes you made and the dates of those changes.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OR LIABILITY OF ANY KIND.
+It is a reference implementation and is NOT certified for safety-critical,
+industrial, energy, or hydropower control use. Use it at your own risk.
